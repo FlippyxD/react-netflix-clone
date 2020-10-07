@@ -1,0 +1,12 @@
+.Footer {
+  margin: 1rem 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.Footer a img {
+  height: 2.5rem;
+  margin-right: 2rem;
+}
