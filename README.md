@@ -11,6 +11,6 @@ Simple responsive home screen of Netflix. Mainly consists of:
 - Detail for selected movie / series
 - Completely written using React and React Hooks
 
-![Netflix Demo Visual](./src/img/Netflix-clone.PNG?raw=true "Netflix Demo Visual")
+![Netflix Demo Visual](./src/images/Netflix-clone.PNG?raw=true "Netflix Demo Visual")
 
-![Netflix Demo Visual](./src/img/netflix-logo.PNG?raw=true "Netflix Demo Visual")
+![Netflix Demo Visual](./src/images/netflix-logo.PNG?raw=true "Netflix Demo Visual")
