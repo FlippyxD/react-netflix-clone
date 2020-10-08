@@ -13,4 +13,4 @@ Simple responsive home screen of Netflix. Mainly consists of:
 
 ![Netflix Demo Visual](./src/images/Netflix-clone.PNG?raw=true "Netflix Demo Visual")
 
-![Netflix Demo Visual](./src/images/netflix-logo.PNG?raw=true "Netflix Demo Visual")
+![Netflix Demo Carousels](./src/images/Netflix-carousels.PNG?raw=true "Netflix Demo Carousels")
